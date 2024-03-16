@@ -1,6 +1,5 @@
 - @Kraafter here, an Indonesian highschooler currently trying to understand how coding/programming works
-- Currently learning python, C++, and html. Planning on doing javascript later on
-- Currently trying out html
+- Currently learning html. Planning on doing javascript later on
 - For important stuff, contact me at secondary.pfc@gmail.com
 
 <!---
