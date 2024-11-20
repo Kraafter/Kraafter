@@ -42,11 +42,7 @@
 
 ###
 
-![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true)
-
-###
-
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
 </div>
 
