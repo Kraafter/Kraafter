@@ -42,7 +42,7 @@
 
 ###
 
-<div align="right>
+<div align="right">
 
   ![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true&theme=tokyonight)
 
