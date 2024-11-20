@@ -48,11 +48,14 @@
 
 <div align="right">
 
+  <h2 align="left">Stats</h2>
+
   ![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true&theme=tokyonight)
 
 </div>
 
 ###
+<br><br>
 
 <div align="right">
   <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
