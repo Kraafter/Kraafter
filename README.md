@@ -42,12 +42,16 @@
 
 ###
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
+<div align="right>
+
+  ![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true&theme=tokyonight)
+
 </div>
 
 ###
 
-![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true&theme=tokyonight)
+<div align="right">
+  <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
+</div>
 
 ###
