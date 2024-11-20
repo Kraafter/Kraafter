@@ -42,12 +42,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
-</div>
+![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true)
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kraafter/Kraafter/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
+</div>
 
 ###
