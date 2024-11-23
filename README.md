@@ -10,7 +10,7 @@
 
 ###
 
-<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks 📚<br>Goals: JavaScript mastery, software engineer 🎯<br>Fun fact: FISSS 🦊<br><br>Business: business@kraafter.me<br>General: hello@kraafter.me</p>
+<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks 📚<br>Goals: JavaScript mastery, software engineer 🎯<br>Fun fact: FISSS 🦊<br><br>Business: <a href="mailto:business@kraafter.me">business@kraafter.me</a><br>General: <a href="mailto:hello@kraafter.me">hello@kraafter.me</a></p>
 
 ###
 
