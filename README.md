@@ -2,19 +2,21 @@
 
 ###
 
-<p align="right">@Kraafter here, an Indonesian highschooler currently trying to understand how coding/programming works</p>
+<p align="right">@Kraafter here, an Indonesian highschooler and amateur programmer (and prolly waay more) beginning his ventures into the software engineering scene.</p>
 
 ###
 
 <h2 align="left">About me</h2>
+<p align="left">Short and simple points describing who I am</p>
 
 ###
 
-<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks 📚<br>Goals: JavaScript mastery, software engineer 🎯<br>Fun fact: FISSS 🦊<br><br>Business: <a href="mailto:business@kraafter.me">business@kraafter.me</a><br>General: <a href="mailto:hello@kraafter.me">hello@kraafter.me</a></p>
+<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks 📚<br>Goals: JavaScript mastery, software engineer, cybersecurity specialist 🎯<br>Fun fact: FISSS (iykyk :3) 🦊<br><br>Business: <a href="mailto:business@kraafter.me">business@kraafter.me</a><br>General: <a href="mailto:hello@kraafter.me">hello@kraafter.me</a></p>
 
 ###
 
 <h2 align="left">I code with</h2>
+<p align="left">Tools I use to "cook" (I'm  definitely not cooking)</p>
 
 ###
 
@@ -49,6 +51,7 @@
 <div align="right">
 
   <h2 align="left">Stats</h2>
+  <P align="left">How do I rank up?</p>
 
   ![Kraafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kraafter&show_icons=true&theme=tokyonight)
 
@@ -60,5 +63,9 @@
 <div align="right">
   <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
 </div>
+
+###
+
+<p align="left">Anyways for further information on where to contact me, visit <a href="https://kraafter.me">kraafter.me</a>.</p>
 
 ###
