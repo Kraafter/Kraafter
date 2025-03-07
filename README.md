@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">@Kraafter here, an Indonesian highschooler and amateur programmer (and prolly waay more) beginning his ventures into the software engineering scene.</p>
+<p align="right">@Kraafter here, an Indonesian highschooler and amateur programmer just chilling here on GitHub.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks 📚<br>Goals: JavaScript mastery, software engineer, cybersecurity specialist 🎯<br>Fun fact: FISSS (iykyk :3) 🦊<br><br>Business: <a href="mailto:business@kraafter.me">business@kraafter.me</a><br>General: <a href="mailto:hello@kraafter.me">hello@kraafter.me</a></p>
+<p align="right">On Github since 2022 ✨<br>I'm currently learning JavaScript frameworks and server management 📚<br>Goals: JavaScript mastery, software engineer, cybersecurity specialist 🎯<br>Fun fact: FISSS (iykyk :3) 🦊<br><br>Business: <a href="mailto:business@kraafter.me">business@kraafter.me</a><br>General: <a href="mailto:hello@kraafter.me">hello@kraafter.me</a></p>
 
 ###
 
