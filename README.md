@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">@Kraafter here, an Indonesian highschooler and amateur programmer just chilling here on GitHub.</p>
+<p align="right">@Kraafter here, an Indonesian college student and amateur programmer just chilling here on GitHub.</p>
 
 ###
 
