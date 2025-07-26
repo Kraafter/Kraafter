@@ -57,12 +57,6 @@
 
 </div>
 
-###
-<br><br>
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Kraafter/count.svg?"  />
-</div>
 
 ###
 
